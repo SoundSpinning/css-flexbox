@@ -1,2 +1,2 @@
 # css-flexbox
-CSS fkexbox gallery template
+CSS flexbox gallery template
